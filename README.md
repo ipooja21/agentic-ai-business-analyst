@@ -61,9 +61,9 @@ The goal is to reduce manual effort and provide quick, data-driven insights.
 * Handling noisy data
 * Agent coordination
 * Automated reporting
-##  Demo Video
+##  Demo 
 
- [Click here to watch demo](https://your-video-link)
+![Project Demo](architecture.png)
 
 ##  Note
 
