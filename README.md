@@ -64,9 +64,8 @@ The goal is to reduce manual effort and provide quick, data-driven insights.
 
 
 
-## 📸 Demo
+##  Demo
 
-(Screenshots will be added here)
 
 
 
