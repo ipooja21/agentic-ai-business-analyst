@@ -63,7 +63,7 @@ The goal is to reduce manual effort and provide quick, data-driven insights.
 * Automated reporting
 ##  Demo 
 
-![Project Demo](architecture.png)
+(architecture.png)
 
 ##  Note
 
