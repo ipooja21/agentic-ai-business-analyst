@@ -63,12 +63,6 @@ The goal is to reduce manual effort and provide quick, data-driven insights.
 * Automated reporting
 
 
-
-##  Demo
-
-
-
-
 ##  Note
 
 Source code is private. Demo available on request.
