@@ -37,56 +37,63 @@
 ### 📊 Upload & Raw Data Preview
 > Upload any CSV/Excel file — the system instantly analyzes structure, missing values, and duplicates
 
-![Upload Screen](./screenshots/upload.png)
+!<img width="912" height="435" alt="image" src="https://github.com/user-attachments/assets/83d70312-73d9-449f-aa89-1314c7768fb8" />
+
 
 ---
 
 ### ⚡ 6-Agent Pipeline Execution
 > All 6 agents run autonomously and report completion status in real-time
 
-![Agent Pipeline](./screenshots/pipeline.png)
 
 ---
 
 ### 📈 KPI Dashboard
 > Auto-generated KPIs: Revenue, Cost, Profit, Customers, Discount
 
-![KPI Dashboard](./screenshots/kpi.png)
 
 ---
 
 ### 📉 Interactive Charts
 > Region-wise revenue, scatter plots, product distribution — all interactive
 
-![Charts](./screenshots/charts.png)
+<img width="931" height="434" alt="image" src="https://github.com/user-attachments/assets/1d7d8d41-95b5-4c86-b59f-d0b82a39dea2" />
+
 
 ---
 
 ### 🔥 Correlation Heatmap
 > Feature correlation matrix showing relationships between all business variables
 
-![Heatmap](./screenshots/heatmap.png)
+<img width="895" height="369" alt="image" src="https://github.com/user-attachments/assets/8c844619-d24a-4a1b-937a-948430d57371" />
+<img width="898" height="333" alt="image" src="https://github.com/user-attachments/assets/09104f4e-c419-4ecb-814b-cff66c38596c" />
+
 
 ---
 
 ### 🤖 ML Prediction Model (Agent 6)
 > Gradient Boosting vs Random Forest comparison with Feature Importance & Actual vs Predicted graph
+> 
+<img width="912" height="553" alt="image" src="https://github.com/user-attachments/assets/37bf58f0-338d-4ffb-95a9-8dd461c78634" />
 
-![ML Model](./screenshots/ml_model.png)
 
 ---
 
 ### 🚨 Anomaly Detection (Agent 5)
 > Isolation Forest detects anomalous records — flagged with visual scatter plot
 
-![Anomaly Detection](./screenshots/anomaly.png)
+
+<img width="927" height="551" alt="image" src="https://github.com/user-attachments/assets/c4e25bd1-48e8-46c5-95ad-b9e7df91a782" />
+<img width="939" height="539" alt="image" src="https://github.com/user-attachments/assets/0eb5688f-3ce4-4f28-9ecb-e1232f23918a" />
+<img width="990" height="619" alt="image" src="https://github.com/user-attachments/assets/9d032b8e-979f-4412-bf44-c62b5cbe4ea4" />
 
 ---
 
 ### 📄 Auto-Generated PDF Report
 > Professional business report generated automatically with all insights & statistics
 
-![PDF Report](./screenshots/report.png)
+<img width="947" height="563" alt="image" src="https://github.com/user-attachments/assets/eab5936d-abc8-4332-9774-9500ddbb6bf5" />
+
 
 ---
 
