@@ -45,11 +45,13 @@
 ### ⚡ 6-Agent Pipeline Execution
 > All 6 agents run autonomously and report completion status in real-time
 
+<img width="910" height="436" alt="image" src="https://github.com/user-attachments/assets/d2313021-6aa4-4a24-a8bd-f36dfd955d96" />
 
 ---
 
 ### 📈 KPI Dashboard
 > Auto-generated KPIs: Revenue, Cost, Profit, Customers, Discount
+<img width="930" height="440" alt="image" src="https://github.com/user-attachments/assets/e1ebedce-a22c-4ea8-80f4-a091ac3a33ce" />
 
 
 ---
