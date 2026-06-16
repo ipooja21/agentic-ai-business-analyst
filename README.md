@@ -99,70 +99,6 @@
 
 ---
 
-## 🏗️ System Architecture — Agent Workflow
-
-```
-📂 Raw Data (CSV/Excel Upload)
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 1: Data      │  ── Removes bad rows, handles missing values,
-│  Cleaner 🧹         │      fixes duplicates → Clean Dataset
-└─────────────────────┘
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 2: Analyzer  │  ── Statistical analysis: Mean, Max, Min,
-│  📊                 │      Std Dev, Correlation Matrix
-└─────────────────────┘
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 3: Insight   │  ── Generates data-driven business insights
-│  Engine 💡          │      from ML model & statistics
-└─────────────────────┘
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 4: Report    │  ── Auto-generates PDF & Excel reports
-│  Generator 📄       │      with all findings
-└─────────────────────┘
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 5: Anomaly   │  ── Isolation Forest detects outliers &
-│  Detector 🚨        │      anomalous business records
-└─────────────────────┘
-         │
-         ▼
-┌─────────────────────┐
-│  Agent 6: ML        │  ── Random Forest + Gradient Boosting
-│  Predictor 🤖       │      predicts target column with accuracy score
-└─────────────────────┘
-         │
-         ▼
-📊 KPI Dashboard + Interactive Charts + Downloadable Reports
-```
-
----
-
-## ✨ Key Features
-
-| Feature | Description |
-|---------|-------------|
-| 🤖 **6-Agent Pipeline** | Fully autonomous multi-agent system |
-| 🧹 **Smart Data Cleaning** | Removes bad rows, handles missing & duplicate values |
-| 📊 **Interactive Dashboard** | Real-time KPI cards with Plotly visualizations |
-| 🔥 **Correlation Heatmap** | Feature relationship matrix for all variables |
-| 🤖 **ML Prediction** | Random Forest vs Gradient Boosting comparison |
-| 🚨 **Anomaly Detection** | Isolation Forest flags suspicious records |
-| 💡 **Auto Insights** | Data-driven business insights generated automatically |
-| 📄 **PDF Reports** | Professional reports via ReportLab |
-| 📊 **Excel Export** | Full data + anomaly labels via OpenPyXL |
-| ❓ **Ask Your Data** | Natural language Q&A on your dataset |
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -176,45 +112,7 @@
 | **Data Processing** | Pandas, NumPy |
 | **Model Saving** | Joblib |
 
----
 
-## 📊 ML Model Results (Sample Run)
-
-| Model | Accuracy (R²%) | MAE |
-|-------|---------------|-----|
-| Random Forest | 66.49% | 2531.83 |
-| **Gradient Boosting** | **68.93%** ✅ | **2433.47** |
-
-**Top Features Impacting Revenue:**
-1. 🥇 Cost (highest impact)
-2. 🥈 Discount
-3. 🥉 Marketing Spend
-
----
-
-## 🚨 Anomaly Detection Results (Sample)
-
-- **Total Records:** 64
-- **Normal Records:** 60
-- **Anomalies Found:** 4 (6.2% of data)
-- **Method:** Isolation Forest
-
----
-
-## ⚙️ How It Works
-
-```
-1. 📂 User uploads CSV/Excel dataset
-2. 🧹 Agent 1 cleans data (removes bad rows, fixes missing values)
-3. 📊 Agent 2 runs statistical analysis
-4. 🤖 Agent 6 trains ML models & predicts target column
-5. 💡 Agent 3 generates business insights from ML results
-6. 🚨 Agent 5 detects anomalies using Isolation Forest
-7. 📄 Agent 4 generates PDF + Excel reports
-8. 📊 Dashboard renders KPIs, charts, heatmap & insights
-```
-
----
 
 ## 🎯 Challenges Solved
 
